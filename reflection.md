@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Gianluca Zurlo
+Sudent Email:  gzurlo@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+Through this assignment, I gained practical experience building multi-step ETL pipelines with API integrations, particularly learning how to properly structure data transformations between Google Places and Azure Cognitive Services. I struggled most with error handling when API responses didn't match expected formats, which revealed I need more practice validating API responses and writing defensive code. For deeper understanding, I should review pandas' json_normalize() documentation and practice more with nested JSON structures to better handle real-world API data variability.
